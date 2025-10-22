@@ -1,0 +1,12 @@
+streamlit
+opencv-python-headless
+numpy
+pillow
+torch
+torchvision
+ultralytics
+clip-anytorch
+pandas
+scikit-image
+plotly
+streamlit-image-comparison
